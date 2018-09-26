@@ -36,7 +36,7 @@ In order to run this application, you will need the following utilities and pack
 
 The Peanut Clicky Game is deployed to Git Pages. Use the following link to see it in action.
 
-# ENTER GIT PAGES LINK
+https://rod-skoglund.github.io/Clicky-Game/
 
 ----------------
 
