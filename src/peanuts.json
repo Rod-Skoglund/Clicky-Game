@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Snoopy",
+    "image": "https://static.comicvine.com/uploads/square_small/0/77/395726-86033-snoopy.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Charlie Brown",
+    "image": "https://static.comicvine.com/uploads/square_small/2/26320/487898-charliebrown.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Linus van Pelt",
+    "image": "https://static.comicvine.com/uploads/square_small/3/37999/830371-linus.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Schroeder",
+    "image": "https://static.comicvine.com/uploads/square_small/3/37999/830373-schroeder.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Lucy van Pelt",
+    "image": "https://static.comicvine.com/uploads/square_small/3/37999/830369-lucy.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Sally Brown",
+    "image": "https://static.comicvine.com/uploads/square_small/3/37999/830377-sally_brown.gif",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Peppermint Patty",
+    "image": "https://static.comicvine.com/uploads/square_small/3/37999/830379-peppermintpatty.gif",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Woodstock",
+    "image": "https://static.comicvine.com/uploads/square_small/3/37999/821526-woodstock.gif",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Violet Gray",
+    "image": "https://static.comicvine.com/uploads/square_small/0/77/1623976-violetgray.gif",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Marcie",
+    "image": "https://static.comicvine.com/uploads/square_small/3/37999/830392-marcie.gif",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Pig-Pen",
+    "image": "https://static.comicvine.com/uploads/square_small/3/37999/830411-180px_pig_pen_peanuts.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Frieda",
+    "image": "https://static.comicvine.com/uploads/square_small/0/40/2148351-frieda.gif",
+    "clicked": false
+  }
+]
